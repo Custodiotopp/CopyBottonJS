@@ -1,13 +1,13 @@
-<!-- BY CUSTODIO -->
+BY CUSTODIO 
 
-<!-- Add this in your body html -->
+Add this in your body html 
 
 ```
     <p id="text">🔨</p>
     <button id="copy">Copiar</button>
     <script src="script.js"></script>
 ```
-<!-- Add this in your css -->
+Add this in your css
 
 ```
 body {
@@ -29,7 +29,7 @@ button {
 ```
 
 
-<!-- Creat a sript.js or put on your -->
+Creat a script.js or put on your
 
 ```
 let button = document.getElementById('copy');
